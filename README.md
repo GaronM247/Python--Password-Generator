@@ -1,5 +1,6 @@
 # Python-Password-Generator
-
+<h2> In this project we will be making a password Generator using python
+</h2>
 # Main Script 
 
 import secrets
